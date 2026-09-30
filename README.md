@@ -4,7 +4,7 @@ Data analyst in progress, backed by 20 years in industrial operations and sales.
 
 After two decades managing and then owning a conveyor belt maintenance business (CSG Splicing, and Wonder Belt before that), I'm building a career in data analysis. This repository holds hands-on projects that turn business data into decisions — the kind of commercial thinking I bring from running a business, applied through Excel, Python and SQL.
 
-**Contact:** [your email]  |  [LinkedIn URL]
+**Contact:** [jbr@csgsplicing.com]  |  [https://www.linkedin.com/in/jaco-bouwer-453b7689/]
 
 ## Projects
 
