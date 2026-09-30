@@ -3,6 +3,7 @@
 **Turning 12 months of industrial sales transactions into a management view of revenue, margin, customers and regions.**
 
 ![Dashboard](Dashboard.PNG)
+![Monthly Revenue Trend](monthly_revenue_trend_python.png)
 
 > All figures are in South African Rand (ZAR). The dataset is simulated to mirror a South African industrial services business (200 transactions, Jan-Dec 2025).
 
