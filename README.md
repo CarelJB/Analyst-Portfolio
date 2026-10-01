@@ -21,11 +21,12 @@ Analysed 12 months of transactional data (R8.2M revenue, 35.8% gross margin) for
 ### 🚧 04 — Sales & Revenue Reporting
 *In progress.*
 
-### 🚧 05 — End-to-End Sales Pipeline (AWS)
-*In progress.* An AWS-based data pipeline covering ingestion through to reporting.
+### [05 — Retail Sales Pipeline and Customer Analysis (AWS)](./05_End_to_End_Sales_Pipeline_AWS)
+**Tools:** Amazon S3, AWS CloudShell, Python, Amazon Athena, SQL, Glue Data Catalog.
+Processed 541,909 public retail records and reconciled the cloud outputs. Athena analysis identified 43 established customers unusually overdue relative to their own buying intervals, investigated November growth and tested holiday-shopping explanations. [Read the business case study](./05_End_to_End_Sales_Pipeline_AWS/writeup/CASE_STUDY.md), including the evidence, recommended actions and limits. This is a manually executed batch project; no sales uplift is claimed.
 
 ## Skills demonstrated across this portfolio
 Excel (pivot tables, structured tables, data validation, KPI dashboard design), Python (pandas, matplotlib), data cleaning and validation, AWS, business and commercial analysis.
 
 ## Background
-20 years in conveyor belt maintenance, splicing and industrial B2B sales — 8 years as a manager at Wonder Belt, followed by founding and running CSG Splicing since 2016. Full CV available on request.
+Industrial operations, conveyor belt maintenance and B2B sales experience since January 2008. Progressed from trainee splicer to General Manager at Wonder Belt (2012–2015), then business ownership from 2016; founded CSG Splicing in 2018. Full CV available on request.

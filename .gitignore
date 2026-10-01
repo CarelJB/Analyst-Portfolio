@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.env
+.env.*
+.aws/
+05_End_to_End_Sales_Pipeline_AWS/data_raw/
+05_End_to_End_Sales_Pipeline_AWS/data_downloaded/
+05_End_to_End_Sales_Pipeline_AWS/data_processed/
+*.zip
